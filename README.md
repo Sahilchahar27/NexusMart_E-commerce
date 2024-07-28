@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GigaGear MERN
 
 Welcome to the GigaGear MERN project, an eCommerce Platform built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
@@ -193,3 +194,6 @@ Your contribution will be reviewed by the project maintainers. Be prepared to ad
 ## Thank You!
 
 Thank you for considering contributing to the eCommerce Platform Project. Your efforts help make this project better for everyone. If you have any questions or need assistance, feel free to reach out through the issue tracker or discussions. Happy coding🤩!
+=======
+# NexusMart-E-commerce
+>>>>>>> 50c3dc1acf6bf5b0c42780979c9cedf32d2440b1
