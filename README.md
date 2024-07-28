@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# GigaGear MERN
+# NexusMart MERN
 
-Welcome to the GigaGear MERN project, an eCommerce Platform built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
+Welcome to the NexusMart MERN project, an eCommerce Platform built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
 
 
 ## Features
@@ -30,11 +30,11 @@ Welcome to the GigaGear MERN project, an eCommerce Platform built using the MERN
 2. Clone the forked repository to your local machine
 
 ```bash
-git clone https://github.com/your-username/GigaGear-MERN.git
+git clone https://github.com/your-username/NexusMart-MERN.git
 ```
 
 ```bash
-cd GigaGear-MERN
+cd NexusMart-MERN
 ```
 
 3. Create a MongoDB database and obtain your MongoDB URI from [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
@@ -133,13 +133,13 @@ We welcome and appreciate contributions from the community to enhance and improv
 2. Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/GigaGear-MERN.git
+   git clone https://github.com/your-username/NexusMart-MERN.git
    ```
 
 3. Navigate to the project directory:
 
    ```bash
-   cd GigaGear-MERN
+   cd NexusMart-MERN
    ```
 
 4. Create a new branch for your contributions:
@@ -193,7 +193,7 @@ Your contribution will be reviewed by the project maintainers. Be prepared to ad
 
 ## Thank You!
 
-Thank you for considering contributing to the eCommerce Platform Project. Your efforts help make this project better for everyone. If you have any questions or need assistance, feel free to reach out through the issue tracker or discussions. Happy coding🤩!
+Thank you for considering contributing to the eCommerce Platform Project. Your efforts help make this project better for everyone. If you have any questions or need assistance, feel free to reach out through the issue tracker or discussions. 
 =======
 # NexusMart-E-commerce
 >>>>>>> 50c3dc1acf6bf5b0c42780979c9cedf32d2440b1
